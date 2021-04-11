@@ -1,1 +1,1 @@
-# QuickKoreanLookup
+# Korean Lookup
